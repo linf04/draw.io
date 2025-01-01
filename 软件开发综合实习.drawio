@@ -1,38 +1,59 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.2">
   <diagram name="第 1 页" id="Xlnudr4jDnuGbzEAOi6u">
-    <mxGraphModel dx="622" dy="373" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="417" dy="229" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3Bb9ipAvmKMsH-sA-MWp-1" value="会议室预订系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3Bb9ipAvmKMsH-sA-MWp-1" value="会议室预订系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="274" y="321" width="120" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="3Bb9ipAvmKMsH-sA-MWp-6" value="员工" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="3Bb9ipAvmKMsH-sA-MWp-6" value="员工" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="319" y="468" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3Bb9ipAvmKMsH-sA-MWp-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Bb9ipAvmKMsH-sA-MWp-9" target="3Bb9ipAvmKMsH-sA-MWp-18">
+        <mxCell id="3Bb9ipAvmKMsH-sA-MWp-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3Bb9ipAvmKMsH-sA-MWp-9" target="3Bb9ipAvmKMsH-sA-MWp-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3Bb9ipAvmKMsH-sA-MWp-9" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="3Bb9ipAvmKMsH-sA-MWp-9" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="624.5" y="332" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3Bb9ipAvmKMsH-sA-MWp-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3Bb9ipAvmKMsH-sA-MWp-11" target="3Bb9ipAvmKMsH-sA-MWp-18">
+        <mxCell id="3Bb9ipAvmKMsH-sA-MWp-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3Bb9ipAvmKMsH-sA-MWp-11" target="3Bb9ipAvmKMsH-sA-MWp-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3Bb9ipAvmKMsH-sA-MWp-11" value="会议室预约" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3Bb9ipAvmKMsH-sA-MWp-11" value="会议室预约" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="456" y="477.5" width="88" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="3Bb9ipAvmKMsH-sA-MWp-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3Bb9ipAvmKMsH-sA-MWp-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="693" y="295" width="88" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="3Bb9ipAvmKMsH-sA-MWp-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="3Bb9ipAvmKMsH-sA-MWp-11">
+        <mxCell id="3Bb9ipAvmKMsH-sA-MWp-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="3Bb9ipAvmKMsH-sA-MWp-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="355" y="498" as="sourcePoint" />
             <mxPoint x="552" y="542" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3Bb9ipAvmKMsH-sA-MWp-18" value="管理员审核" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="3Bb9ipAvmKMsH-sA-MWp-18" value="管理员审核" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="589" y="478.5" width="101" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MMmD-RKjixXwpstdL_IQ-1" value="会议室分类信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="868" width="91" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="MMmD-RKjixXwpstdL_IQ-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.499;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="MMmD-RKjixXwpstdL_IQ-2" target="MMmD-RKjixXwpstdL_IQ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MMmD-RKjixXwpstdL_IQ-2" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="369" y="939" width="57" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MMmD-RKjixXwpstdL_IQ-3" value="名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="312" y="806" width="57" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MMmD-RKjixXwpstdL_IQ-4" value="描述" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="426" y="806" width="57" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MMmD-RKjixXwpstdL_IQ-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.65;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="MMmD-RKjixXwpstdL_IQ-4" target="MMmD-RKjixXwpstdL_IQ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MMmD-RKjixXwpstdL_IQ-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.372;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="MMmD-RKjixXwpstdL_IQ-3" target="MMmD-RKjixXwpstdL_IQ-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
