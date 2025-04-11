@@ -394,6 +394,15 @@
         <mxCell id="T9cRB7cxZAfNw0go3Zid-177" value="安全&lt;div&gt;措施&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1620" y="-69" width="72" height="58" as="geometry" />
         </mxCell>
+        <mxCell id="T9cRB7cxZAfNw0go3Zid-178" value="气" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1396" y="14" width="36" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="T9cRB7cxZAfNw0go3Zid-179" value="险" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1478" y="14" width="36" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="T9cRB7cxZAfNw0go3Zid-180" value="安" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1558" y="14" width="36" height="37" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
