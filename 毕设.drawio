@@ -461,7 +461,7 @@
           <mxGeometry x="2188" y="522" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="QlkSDOuWF1XungDnMpaX-32" value="流程表单设计" style="rounded=0;whiteSpace=wrap;verticalAlign=middle;textDirection=vertical-lr;labelPosition=center;verticalLabelPosition=middle;align=center;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2022" y="522" width="30" height="120" as="geometry" />
+          <mxGeometry x="2020" y="522" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="QlkSDOuWF1XungDnMpaX-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="QlkSDOuWF1XungDnMpaX-33" target="QlkSDOuWF1XungDnMpaX-25">
           <mxGeometry relative="1" as="geometry">
