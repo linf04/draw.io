@@ -629,6 +629,57 @@
         <mxCell id="QlkSDOuWF1XungDnMpaX-101" value="绑定流程表单" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2484" y="871" width="100" height="39" as="geometry" />
         </mxCell>
+        <mxCell id="QlkSDOuWF1XungDnMpaX-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QlkSDOuWF1XungDnMpaX-106" target="QlkSDOuWF1XungDnMpaX-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QlkSDOuWF1XungDnMpaX-106" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2712" y="811" width="75" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="QlkSDOuWF1XungDnMpaX-107" value="部署流程模型" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2699.5" y="898" width="100" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="QlkSDOuWF1XungDnMpaX-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QlkSDOuWF1XungDnMpaX-108" target="QlkSDOuWF1XungDnMpaX-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QlkSDOuWF1XungDnMpaX-117" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QlkSDOuWF1XungDnMpaX-111">
+          <mxGeometry x="-0.4264" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QlkSDOuWF1XungDnMpaX-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QlkSDOuWF1XungDnMpaX-108" target="QlkSDOuWF1XungDnMpaX-114">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2876" y="997" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QlkSDOuWF1XungDnMpaX-118" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QlkSDOuWF1XungDnMpaX-116">
+          <mxGeometry x="0.3861" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QlkSDOuWF1XungDnMpaX-108" value="流程模型&lt;br&gt;设计正确" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2699.5" y="965" width="100" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="QlkSDOuWF1XungDnMpaX-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QlkSDOuWF1XungDnMpaX-109" target="QlkSDOuWF1XungDnMpaX-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QlkSDOuWF1XungDnMpaX-109" value="部署成功" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2699.5" y="1072" width="100" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="QlkSDOuWF1XungDnMpaX-112" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2712" y="1166.5" width="75" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="QlkSDOuWF1XungDnMpaX-114" value="提示部署错误" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2826" y="1072" width="100" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="QlkSDOuWF1XungDnMpaX-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QlkSDOuWF1XungDnMpaX-114" target="QlkSDOuWF1XungDnMpaX-112">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2876" y="1187" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
